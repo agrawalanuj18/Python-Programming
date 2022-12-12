@@ -11,6 +11,4 @@
 
 ### It has Lots of Libraries
 
-### It has Built-in Data Structures
-
 ### It's Widely Applicable
