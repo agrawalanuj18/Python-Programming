@@ -10,5 +10,3 @@
 ### It is Object-Oriented
 
 ### It has Lots of Libraries
-
-### It's Widely Applicable
